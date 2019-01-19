@@ -4,10 +4,6 @@ import re
 from googletrans import Translator
 from fpdf import FPDF
 
-from matplotlib import rcParams
-import os.path
-from matplotlib.afm import AFM
-
 
 """
 0 means print to PDF file, 1 means print to txt file
@@ -15,10 +11,8 @@ from matplotlib.afm import AFM
 try:
     int(sys.argv[1])
 except Exception as e:
+    print("Please input the file format you want.")
     raise e
-printFormat = int(sys.argv[1])
-
-translator = Translator()
 
 
 def getApproximateArialStringWidth(st):
@@ -43,25 +37,31 @@ def getApproximateArialStringWidth(st):
     return size * 6 / 1000.0  # Convert to picas
 
 
-pdf = FPDF('P', 'mm', 'A4')
-pdf.add_page()
-pdf.add_font(
-    'Custom',
-    '',
-    '/Users/HankWang/Documents/Fonts/ARIALUNI.TTF',
-    uni=True)
+def initFPDF():
+    pdf = FPDF('P', 'pt', 'A4')
+    pdf.add_page()
+    pdf.add_font(
+        'Custom',
+        '',
+        '/Users/HankWang/Documents/Fonts/ARIALUNI.TTF',
+        uni=True)
 
-pdf.set_font('Custom', '', 16)
-#  pdf.set_font('Menlo', '', 16)
+    pdf.set_font('Custom', '', 16)
+    return pdf
+
+
+def initTranslator():
+    translator = Translator()
+    return translator
+
+
+printFormat = int(sys.argv[1])
+pdf = initFPDF()
+translator = initTranslator()
+
 
 if printFormat == 1:
     output = open("vocabulary.txt", "w")
-else:
-    afm_filename = os.path.join(
-        rcParams['datapath'],
-        'fonts', 'afm', 'ptmr8a.afm')
-    fh = open(afm_filename, 'rb')
-    afm = AFM(fh)
 
 for file in sys.argv[2:]:
     with open(file)as vocabulary:
@@ -81,31 +81,12 @@ for file in sys.argv[2:]:
                                     word.lower(),
                                     dest='zh-cn').text, file=output)
                     else:
-                        #  newLine = ''
-                        #  newLine += word.lower()
-
-                        #  newLine += ' ' * (50 -
-                        #  int(getApproximateArialStringWidth(
-                        #  word.lower()) /
-                        #  getApproximateArialStringWidth(' ')))
-                        #  newLine += translator.translate(
-                        #  word.lower(),
-                        #  dest='zh-cn').text
-                        #  pdf.cell(0, 10, newLine, ln=1)
-
-                        newLine = ''
-                        newLine += word.lower()
-
-                        newLine += ' ' * (
-                            50 - int(afm.string_width_height(newLine)[0]) //
-                            250)
-                        newLine += translator.translate(
-                            word.lower(),
-                            dest='zh-cn').text
-                        pdf.cell(0, 10, newLine, ln=1)
+                        pdf.cell(200, 18, word.lower())
+                        pdf.cell(
+                            0, 18, translator.translate(
+                                word.lower(), dest='zh-cn').text, ln=1)
 
 if printFormat == 1:
     output.close()
 else:
-    fh.close()
     pdf.output('vocabulary.pdf', 'F').encode('utf-8')
