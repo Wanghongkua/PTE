@@ -1,5 +1,5 @@
 1. You must submit your assignments by next Friday at the latest.
-    > You must submit your assignments by next **`Friday at the`**  latest.
+    > You must submit your **`assignments`** by next **`Friday at the`**  latest.
 
 2. Newspaper are supported primarily by the sale of advertising space.
     > ***`Newspaper`*** are supported ***`primarily`*** by **`the sale of advertising space`**
@@ -66,12 +66,13 @@
     > **`The`** toughest part of public education is funding.
 
 24. The students were instructed to submit their assignments by Friday.
+    > The students **`were`** instructed to submit their assignments **`by Friday`**.
 
 25. Politics is not usually a safe topic of conversation.
-    > Politics is not usually a safe topic **`of conversation`**.
+    > ***`Politics`*** is not usually a safe topic **`of conversation`**.
 
 26. Students have the options to live in college residences or apartments.
-    > Students have the ***`options`*** to live in college **`residences`** or ***`apartments`*** .
+    > Students have the ***`options`*** to live **`in college residences`** or ***`apartments`*** .
 
 27. Presidential elections are held once every four years.
     > ***`Presidential`*** elections are held once every four years.
@@ -87,3 +88,25 @@
 
 31. Observers waited nervously and bated their breath for the concert.
     > Observers waited ***`nervously`*** and ***`bated`*** their breath **`for`** the concert.
+
+32. The celebrated theory has a great degree of controversy.
+    > The ***`celebrated`*** theory has a great degree of controversy.
+
+33. Heavy rain will fall throughout the country next week.
+    > Heavy rain will fall ***`throughout`*** the country next week.
+
+34. If you are not sure, phone student services for help.
+
+35. You come with me and the others stay here.
+
+36. The scientists now study a wide variety of atmosphetic processes.
+    > The scientists now study a wide ***`variety`*** of ***`atmospheric`*** processes.
+
+37. The new product failed due to a lack of demand.
+    > The new product **`failed`** due to **`a lack of`** demand.
+
+38. This paper challenged the previously accepted theories.
+    > This paper **`challenged`** the previously accepted ***`theories`***.
+
+39. A number of students have volunteer jobs.
+    > A number of students have ***`volunteer`*** jobs.
