@@ -1,0 +1,13 @@
+Stipend  
+Hydrant  
+Tribes  
+Monolithic  
+Appropriate  
+Teller  
+Anatomy  
+Mishaps  
+Presidential  
+Successful  
+Nervously  
+bated   
+

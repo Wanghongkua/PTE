@@ -1,3 +1,5 @@
+#!/Users/HankWang/anaconda/envs/py36/bin/python
+
 import sys
 import re
 from googletrans import Translator
@@ -8,9 +10,13 @@ from fpdf import FPDF
 0 means print to PDF file, 1 means print to txt file
 """
 try:
-    int(sys.argv[1])
+    filetype = int(sys.argv[1])
+    if filetype != 1 and filetype != 2:
+        raise "Invalid number"
 except Exception as e:
-    print("Please input the file format you want.")
+    print("Please input the file format you want as the first argument. \
+          \n 0 means PDF.\
+          \n 1 means txt.")
     raise e
 
 
