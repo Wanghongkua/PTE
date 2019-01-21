@@ -11,7 +11,7 @@ from fpdf import FPDF
 """
 try:
     filetype = int(sys.argv[1])
-    if filetype != 1 and filetype != 2:
+    if filetype != 1 and filetype != 0:
         raise "Invalid number"
 except Exception as e:
     print("Please input the file format you want as the first argument. \

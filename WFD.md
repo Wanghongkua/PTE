@@ -106,7 +106,7 @@
     > The new product **`failed`** due to **`a lack of`** demand.
 
 38. This paper challenged the previously accepted theories.
-    > This paper **`challenged`** the previously accepted ***`theories`***.
+    > This paper **`challenged`** the previously accepted **`theories`**.
 
 39. A number of students have volunteer jobs.
     > A number of students have ***`volunteer`*** jobs.
