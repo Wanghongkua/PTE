@@ -99,7 +99,7 @@
 
 35. You come with me and the others stay here.
 
-36. The scientists now study a wide variety of atmosphetic processes.
+36. The scientists now study a wide variety of atmospheric processes.
     > The scientists now study a wide ***`variety`*** of ***`atmospheric`*** processes.
 
 37. The new product failed due to a lack of demand.
@@ -110,3 +110,18 @@
 
 39. A number of students have volunteer jobs.
     > A number of students have ***`volunteer`*** jobs.
+
+40. The essay is easy to write, once the research is completed.
+
+41. It is hard to anticipate all their actions.
+    > It is hard to ***`anticipate`*** all **`their`** actions.
+
+42. Control systems in manufacturing provide a high level of accuracy.
+    > Control **`systems`** in ***`manufacturing`*** **`provide`** a high level of accuracy.
+
+43. University departments should carefully monitor articles and other publications by faculty.
+    > University departments should **`carefully`** monitor **`articles and other`** publications **`by faculty`**.
+
+44. The application process may take longer than expected.
+
+
