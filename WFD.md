@@ -14,10 +14,10 @@
     > **`Student`** ***`concession`*** cards need to be obtained by completing an application form.
 
 6. The university has a world-renowned school of archaeology.
-    > **`The`** ***`university`*** has a ***`world-renowned`*** school of ***`archaeology`*** .
+    > **`The`** ***`university`*** has a ***`world-renowned`*** school of ***`archaeology`***.
 
 7. This guide is qualified to lead the groups into the mountains.
-    > This guide is qualified to **`lead`** the **`groups into`** the ***`mountains`*** .
+    > This guide is qualified to **`lead`** the **`groups into`** the ***`mountains`***.
 
 8. Teaching assistants will receive a monthly stipend for housing.
     > Teaching assistants will receive **`a`** monthly ***`stipend`*** for housing.
@@ -36,7 +36,7 @@
     > Review all sources before drawing any **`conclusions`**.
 
 14. Tribes worked with each other to build monolithic statues.
-    > ***`Tribes`*** **`worded`** with each other to build ***`monolithic`*** ***`statues`*** .
+    > ***`Tribes`*** **`worded`** with each other to build ***`monolithic`*** ***`statues`***.
 
 15. There was not enough evidence to support these recommendations.
     > There **`was`** not enough evidence to support these recommendations.
@@ -72,7 +72,7 @@
     > ***`Politics`*** is not usually a safe topic **`of conversation`**.
 
 26. Students have the options to live in college residences or apartments.
-    > Students have the ***`options`*** to live **`in college residences`** or ***`apartments`*** .
+    > Students have the ***`options`*** to live **`in college residences`** or ***`apartments`***.
 
 27. Presidential elections are held once every four years.
     > ***`Presidential`*** elections are held once every four years.
@@ -84,7 +84,7 @@
     > Let me know if anybody **`struggles`** in the lab.
 
 30. The morning's lecture on economic policy has been canceled.
-    > The **`morning's`** lecture on economic **`policy`** has been ***`canceled`*** .
+    > The **`morning's`** lecture on economic **`policy`** has been ***`canceled`***.
 
 31. Observers waited nervously and bated their breath for the concert.
     > Observers waited ***`nervously`*** and ***`bated`*** their breath **`for`** the concert.
@@ -124,4 +124,59 @@
 
 44. The application process may take longer than expected.
 
+45. Please note that the college laboratory will be closed for cleaning next week.
+    > Please note **`that`** the college ***`laboratory`*** will be closed for cleaning next week.
 
+46. The economic books are at the back on the left.
+
+47. Neurons are principally involved in biological processes.
+    > ***`Neurons`*** are ***`principally`*** involved in biological processes.
+
+48. The coffee house menu featured coffee, sandwiches and toast.
+    > The coffee house menu **`featured`** coffee, ***`sandwiches`*** and toast.
+
+49. The key findings seemed to contradict our initial hypothesis.
+    > The key findings **`seemed`** to ***`contradict`*** our initial hypothesis.
+
+50. It is important to allocate your time wisely when revising.
+    > It is important to allocate your time wisely when ***`revising`***.
+
+51. Writing an essay is easy once the research is finished.
+
+52. The university officer will help you locate the housing and transportation.
+    > The university officer will help you **`locate the`** housing and ***`transportation`***.
+
+53. The dining hall will undergo renovation during the fall break.
+    > The dining hall will **`undergo`** ***`renovation`*** during the fall break.
+
+54. Some of the features are parts of the previous research.
+    > Some of the features are **`parts`** of the previous research.
+
+55. Experts believe that the industrial development will help the economy.
+    > **`Experts`** believe that **`the`** ***`industrial`*** development will help the economy.
+
+56. Nurses specialize in clinical work and management.
+    > ***`Nurses`*** specialize **`in`** clinical work and management.
+
+57. They were struggling last year to make their service pay.
+    > They were struggling last year to make their service **`pay`**.
+
+58. Avoid confusing the cause and effect of these changes.
+    > Avoid confusing **`the cause and effect`** of these changes.
+
+59. Most critics agreed with the new theory but few disagreed.
+    > Most ***`critics`*** agreed with the new theory but few disagreed.
+
+60. Sales figures for last year were better than expected.
+    > Sales figures for last year were better than expected.
+
+61. The island is located at the north end of the bay.
+    > The island is located at the north end of the bay.
+
+62. The results of the experiment are reported in the table below.
+    > The **`results`** of the experiment **`are`** reported in the table below.
+
+63. Laws protect consumer rights and help avoid market problems.
+    > **`Laws`** protect consumer rights **`and`** help avoid market problems.
+
+64. 
