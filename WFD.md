@@ -192,4 +192,58 @@
 68. Artists other than politicians played their own roles as critics of the culture.
     > ***`Artists`*** other than politicians **`played`** their own roles **`as`** ***`critics`*** of the culture.
 
-69. 
+69. The schedule allows plenty of time for individual study.
+
+70. Relative humidity is the amount of moisture that the air can hold.
+    > Relative humidity is the amount of **`moisture`** that the air can hold.
+
+71. You can contact all your tutors by email.
+    > You can contact all **`your`** tutors by email.
+
+72. There is a need for constructive dialog between leaders.
+    > There is a need **`for`** ***`constructive`*** ***`dialog`*** **`between`** leaders.
+
+73. I thought we would meet in the small meeting room.
+    > I thought we would meet **`in`** the small meeting room.
+
+74. The importance of this event was not yet fully understood.
+    > The importance of this event **`was`** not yet fully understood.
+
+75. Most theories are quite similar, but few critics disagree.
+    > Most theories are quite similar, but **`a`** few critics disagree.
+
+76. Americans have progressively found the growth in quantitative terms.
+    > Americans have ***`progressively`*** found the ***`growth`*** in ***`quantitative`*** **`terms`**.
+
+77. The history of the movement was recorded by several writers.
+    > The history of **`the`** movement was recorded by several writers.
+
+78. The toughest part of the research for postgraduate students is the funding.
+    > The toughest part **`of the research`** for **`postgraduate students`** is **`the`** funding.
+
+79. Assignment should be submitted to the department office before deadline.
+
+80. Free campus tours run daily during summer for prospective students.
+    > **`Free campus tours`** run daily during summer for ***`prospective`*** students.
+
+81. Career opportunities in this field are quite limited.
+    > **`Career`** opportunities in this field are quite limited.
+
+
+82. This is interesting in parliament.
+    > This **`is`**  interesting in ***`parliament`*** .
+
+83. Resources and materials are on hold at the library reference desk.
+    > Resources **`and materials`** are **`on hold at`** the library reference **`desk`**
+
+84. We can't consider an increase in price at this stage.
+    > We can't consider **`an increase in`** price at this stage.
+
+85. Climate change is being acknowledged by many scientists.
+    > Climate change **`is being`** acknowledged by many scientist.
+
+86. A person's education level is closely related to his economic background.
+    > A  person's education level is closely related to **`his`** economic background.
+
+87. Everyone must evacuate the premises during the fire drill.
+    > Everyone must evacuate **`the`** ***`premises`*** during the fire ***`drill`***
