@@ -179,4 +179,14 @@
 63. Laws protect consumer rights and help avoid market problems.
     > **`Laws`** protect consumer rights **`and`** help avoid market problems.
 
-64. 
+64. Our class is divided into two groups, you come with me, others stay here.
+
+65. Undergraduate students may participate in specific stages within the program.
+
+66. When workers ask for higher wages, the company raises their prices.
+    > When workers ask for higher wages, **`the company`** ***`raises`*** their prices.
+
+67. The vocabulary that has peculiar meanings is called jargon.
+    > The vocabulary that has ***`peculiar`*** meanings is called ***`jargon`***.
+
+68. 
