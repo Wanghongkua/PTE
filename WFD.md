@@ -189,4 +189,7 @@
 67. The vocabulary that has peculiar meanings is called jargon.
     > The vocabulary that has ***`peculiar`*** meanings is called ***`jargon`***.
 
-68. 
+68. Artists other than politicians played their own roles as critics of the culture.
+    > ***`Artists`*** other than politicians **`played`** their own roles **`as`** ***`critics`*** of the culture.
+
+69. 
