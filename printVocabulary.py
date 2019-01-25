@@ -37,7 +37,7 @@ def printFiletype():
 def printSource():
     """print the prompt asking for source files
     """
-    print("Please type all the markdown files you want to be looking for:")
+    print("Please type all the markdown files , and seperate those by spaces:")
 
 
 def getFiletype():
@@ -79,7 +79,7 @@ def getFiles():
     :returns: file name in list
     """
     printSource()
-    files = input("Files: ")
+    files = input("Files: ").split(' ')
     return files
 
 
@@ -101,6 +101,8 @@ else:
     filetype = sys.argv[1]
     if not testFiletype(filetype):
         filetype = getFiletype()
+    else:
+        filetype = int(filetype)
 
     files = sys.argv[2:]
 
@@ -112,7 +114,6 @@ else:
     output = open("vocabulary.txt", "w")
 
 for file in files:
-    #  with open(file)as vocabulary:
     try:
         vocabulary = open(file, 'r')
     except Exception as e:
