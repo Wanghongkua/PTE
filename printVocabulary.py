@@ -92,11 +92,44 @@ def cleaning(vocabulary, output=None):
         output.close()
 
 
+def print2TXT(word, file, translator):
+    """print word and translation into txt file
+
+    :word: English
+    :file: txt file
+    :translator: translation module
+
+    """
+    print(word.lower(), end='', file=output)
+    if len(word) < 8:
+        print("\t"*2, end='', file=output)
+    elif len(word) <= 12:
+        print("\t", end='', file=output)
+    elif len(word) <= 16:
+        print("\t", end='', file=output)
+    print("\t" + translator.translate(
+                word.lower(),
+                dest='zh-cn').text, file=output)
+
+
+def print2PDF(word, translator):
+    """print word and translation into PDF file
+
+    :word: english word
+    :translator: translation module
+
+    """
+    pdf.cell(200, 18, word.lower())
+    pdf.cell(0, 18, translator.translate(
+            word.lower(), dest='zh-cn').text, ln=1)
+
+
 if len(sys.argv) == 1:
     filetype = getFiletype()
     files = getFiles()
 elif len(sys.argv) < 3:
     filetype = 0
+    files = sys.argv[1:]
 else:
     filetype = sys.argv[1]
     if not testFiletype(filetype):
@@ -129,20 +162,9 @@ for file in files:
         if wordList:
             for word in wordList:
                 if filetype == 1:
-                    print(word.lower(), end='', file=output)
-                    if len(word) < 8:
-                        print("\t"*2, end='', file=output)
-                    elif len(word) <= 12:
-                        print("\t", end='', file=output)
-                    print("\t" +
-                          translator.translate(
-                                word.lower(),
-                                dest='zh-cn').text, file=output)
+                    print2TXT(word, file, translator)
                 else:
-                    pdf.cell(200, 18, word.lower())
-                    pdf.cell(
-                        0, 18, translator.translate(
-                            word.lower(), dest='zh-cn').text, ln=1)
+                    print2PDF(word, translator)
     vocabulary.close()
 
 if filetype == 1:
