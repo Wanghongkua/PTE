@@ -284,6 +284,6 @@
     > We support the **`research`** on problems related to **`tropical`** ***`dynamics`*** and ***`forecasting`*** .
 
 100. Relevant materials are reserved in the library.
-    > ***`Relevant`*** materials **`are`** reserved in the library.
+     > ***`Relevant`*** materials **`are`** reserved in the library.
 
 101.
