@@ -14,10 +14,10 @@
     > **`Student`** ***`concession`*** cards need to be obtained by completing an application form.
 
 6. The university has a world-renowned school of archaeology.
-    > **`The`** ***`university`*** has a ***`world-renowned`*** school of ***`archaeology`***.
+    > **`The`** ***`university`*** has a ***`world-renowned`*** school of ***`archaeology`*** .
 
 7. This guide is qualified to lead the groups into the mountains.
-    > This guide is qualified to **`lead`** the **`groups into`** the ***`mountains`***.
+    > This guide is qualified to **`lead`** the **`groups into`** the ***`mountains`*** .
 
 8. Teaching assistants will receive a monthly stipend for housing.
     > Teaching assistants will receive **`a`** monthly ***`stipend`*** for housing.
@@ -36,7 +36,7 @@
     > Review all sources before drawing any **`conclusions`**.
 
 14. Tribes worked with each other to build monolithic statues.
-    > ***`Tribes`*** **`worded`** with each other to build ***`monolithic`*** ***`statues`***.
+    > ***`Tribes`*** **`worded`** with each other to build ***`monolithic`*** ***`statues`*** .
 
 15. There was not enough evidence to support these recommendations.
     > There **`was`** not enough evidence to support these recommendations.
@@ -72,7 +72,7 @@
     > ***`Politics`*** is not usually a safe topic **`of conversation`**.
 
 26. Students have the options to live in college residences or apartments.
-    > Students have the ***`options`*** to live **`in college residences`** or ***`apartments`***.
+    > Students have the ***`options`*** to live **`in college residences`** or ***`apartments`*** .
 
 27. Presidential elections are held once every four years.
     > ***`Presidential`*** elections are held once every four years.
@@ -84,7 +84,7 @@
     > Let me know if anybody **`struggles`** in the lab.
 
 30. The morning's lecture on economic policy has been canceled.
-    > The **`morning's`** lecture on economic **`policy`** has been ***`canceled`***.
+    > The **`morning's`** lecture on economic **`policy`** has been ***`canceled`*** .
 
 31. Observers waited nervously and bated their breath for the concert.
     > Observers waited ***`nervously`*** and ***`bated`*** their breath **`for`** the concert.
@@ -139,12 +139,12 @@
     > The key findings **`seemed`** to ***`contradict`*** our initial hypothesis.
 
 50. It is important to allocate your time wisely when revising.
-    > It is important to allocate your time wisely when ***`revising`***.
+    > It is important to allocate your time wisely when ***`revising`*** .
 
 51. Writing an essay is easy once the research is finished.
 
 52. The university officer will help you locate the housing and transportation.
-    > The university officer will help you **`locate the`** housing and ***`transportation`***.
+    > The university officer will help you **`locate the`** housing and ***`transportation`*** .
 
 53. The dining hall will undergo renovation during the fall break.
     > The dining hall will **`undergo`** ***`renovation`*** during the fall break.
@@ -187,7 +187,7 @@
     > When workers ask for higher wages, **`the company`** ***`raises`*** their prices.
 
 67. The vocabulary that has peculiar meanings is called jargon.
-    > The vocabulary that has ***`peculiar`*** meanings is called ***`jargon`***.
+    > The vocabulary that has ***`peculiar`*** meanings is called ***`jargon`*** .
 
 68. Artists other than politicians played their own roles as critics of the culture.
     > ***`Artists`*** other than politicians **`played`** their own roles **`as`** ***`critics`*** of the culture.
@@ -246,4 +246,44 @@
     > A  person's education level is closely related to **`his`** economic background.
 
 87. Everyone must evacuate the premises during the fire drill.
-    > Everyone must evacuate **`the`** ***`premises`*** during the fire ***`drill`***
+    > Everyone must evacuate **`the`** ***`premises`*** during the fire ***`drill`*** .
+
+88. You are required to submit your assignment by Friday.
+
+89. Lectures' outlines are available on the college internal website.
+    > **`Lectures' outlines`** are available **`on`** the college internal website.
+
+90. Our professor is hosting the business development conference.
+    > Our professor is hosting the business **`development`** conference.
+
+91. Materials and resources are on hold at the library's front desk.
+    > **`Materials`** and **`resources`** are on hold at the **`library's`** front desk.
+
+92. Animals raised in captivity behave differently than their wild counterparts.
+    > Animals raised in ***`captivity`*** behave differently than their wild ***`counterparts`*** .
+
+93. If it helps to take notes in order to concentrate, please do so.
+    > If it helps to take **`notes in order`** to concentrate, please do so.
+
+94. The schedule allows a lot of time for independent study.
+    > The schedule **`allows`** a lot of time for **`independent`** study.
+
+95. He has landed a job in a prestigious law firm.
+    > He has landed a job in a ***`prestigious`*** law firm.
+
+96. Mutually exclusive events can be described as either complementary or opposite.
+    > Mutually exclusive events can be ***`described`*** as **`either`** ***`complementary`*** or opposite.
+
+97. Conferences ought to be scheduled two weeks in advance.
+    > Conferences **`ought to`** be scheduled two weeks in advance.
+
+98. The curriculum is described in the course syllabus.
+    > The ***`curriculum`*** is described in the **`course`** ***`syllabus`*** .
+
+99. We support the research on problems related to tropical cyclone dynamics and forecasting.
+    > We support the **`research`** on problems related to **`tropical`** ***`dynamics`*** and ***`forecasting`*** .
+
+100. Relevant materials are reserved in the library.
+    > ***`Relevant`*** materials **`are`** reserved in the library.
+
+101.
