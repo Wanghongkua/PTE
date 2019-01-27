@@ -338,4 +338,18 @@
 118. Interim grades will be posted on the board outside the student lounge.
      > ***`Interim`*** **`grades`** will be posted **`on the board`** outsite the student lounge.
 
-119.
+119. Our group is going to meet tomorrow in the library conference room.
+        > Our group **`is going to`** meet tomorrow **`in`** the library conference room.
+
+120. The first assignment will be due on the 14th of September.
+        > The first assignment will **`be`** due on the **`14th of`** September.
+
+121. There was no coorelation between drug use and cure rates.
+        > There was no ***`coorelation`*** bewteen drug use and cure rates.
+
+122. The university library has most of the necessary books.
+
+123. Your are required to complete your research paper by next Monday.
+
+124. Your thesis should have a fairly limited scope.
+        > Your ***`thesis`*** should have a fairly limited scope.
