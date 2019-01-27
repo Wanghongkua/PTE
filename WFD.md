@@ -286,4 +286,56 @@
 100. Relevant materials are reserved in the library.
      > ***`Relevant`*** materials **`are`** reserved in the library.
 
-101.
+101. Today's lecture material will be included in the next assignment.
+
+102. Competition for places in this course is fierce.
+     > ***`Competition`*** for places in this course is fierce.
+
+103. The slide shows there has been a minimal growth.
+     > The slide shows **`there has been a`** minimal growth.
+
+104. Please remember to bring a highlighter to class next Wednesday.
+     > Please remember to bring a highlighter **`to`** class **`next Wednesday`**.
+
+105. Those who seek for formal extension should contact their faculty for information.
+     > Those who seek for **`formal`** ***`extension`*** should contact **`their`** faculty for information
+
+106. It is vital that you acknowledge all your sources.
+
+107. Most teaching staff make their lecture notes available online.
+     > Most teaching staff make their **`lecture notes available`** online
+
+108. There is a strict eligibility criterion to undertake background speaker studies.
+     > There is a strict **`eligibility`** ***`criterion`*** to ***`undertake`*** background **`speaker studies`**.
+
+109. She received a scholarship from the state university.
+     > She ***`received`*** a scholarship from **`the`** state university.
+
+110. Try to work with each other to build up a sense a cooperation and team spirit.
+     > Try to work with each other to **`build up a`** sense of ***`cooperation`*** and team **`spirit`**.
+
+111. It is hard to observe the reaction of the character.
+     > It is hard to observe  the reaction of the ***`character`*** .
+
+112. Many graduate students can find a job in the communications field.
+     > Many graduate students can find a job in **`the`** ***`communications`*** field.
+
+113. In spite of the differences, all the species of life share certain characteristics.
+     > ***`In spite of`*** **`the`** differences, all **`the`** ***`species`*** of life share **`certain characteristics`**.
+
+114. The new technician dropped the microscope in the biology lab.
+     > The new **`technician dropped the`** microscope in the biology lab.
+
+115. The thief visits the homes of several people every day.
+     > The ***`thief`*** **`visits`** the **`homes of`** several people every day.
+
+116. The time of the math lecture has been changed to ten thirty.
+     > The time of **`the math lecture`** has been changed to **`ten thirty`**.
+
+117. Final year business students have to write a 5000-word essay on market trends.
+     > Final year business students have to write a **`5000-word`** essay on **`market trends`**.
+
+118. Interim grades will be posted on the board outside the student lounge.
+     > ***`Interim`*** **`grades`** will be posted **`on the board`** outsite the student lounge.
+
+119.
