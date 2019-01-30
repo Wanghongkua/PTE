@@ -112,16 +112,40 @@ def print2TXT(word, file, translator):
                 dest='zh-cn').text, file=output)
 
 
-def print2PDF(word, translator):
+def print2PDF(word, translator, hardVocabulary):
     """print word and translation into PDF file
 
     :word: english word
     :translator: translation module
 
     """
-    pdf.cell(200, 18, word.lower())
+    if word.lower() in hardVocabulary:
+        pdf.set_text_color(220, 20, 60)
+        pdf.cell(200, 18, word.lower())
+    else:
+        pdf.cell(200, 18, word.lower())
+
     pdf.cell(0, 18, translator.translate(
             word.lower(), dest='zh-cn').text, ln=1)
+    pdf.set_text_color(0, 0, 0)
+
+
+def readHardVocabulary(file):
+    """ read hard vocabulary file and save into a dictionary
+        and return the dictionary
+
+    :file: the source file
+    :returns: all words in dictionary format
+
+    """
+    hardVocabulary = {}
+    with open(file, 'r') as vocaFile:
+        for line in vocaFile:
+            words = line.split()
+            if words:
+                for word in words:
+                    hardVocabulary[word.lower()] = 1
+    return hardVocabulary
 
 
 if len(sys.argv) == 1:
@@ -143,6 +167,7 @@ translator = initTranslator()
 
 if filetype == 0:
     pdf = initFPDF()
+    hardVocabulary = readHardVocabulary('hardVocabulary.md')
 else:
     output = open("vocabulary.txt", "w")
 
@@ -164,7 +189,7 @@ for file in files:
                 if filetype == 1:
                     print2TXT(word, file, translator)
                 else:
-                    print2PDF(word, translator)
+                    print2PDF(word, translator, hardVocabulary)
     vocabulary.close()
 
 if filetype == 1:

@@ -336,20 +336,237 @@
      > Final year business students have to write a **`5000-word`** essay on **`market trends`**.
 
 118. Interim grades will be posted on the board outside the student lounge.
-     > ***`Interim`*** **`grades`** will be posted **`on the board`** outsite the student lounge.
+     > ***`Interim`*** **`grades`** will be posted **`on the board`** outside the student lounge.
 
 119. Our group is going to meet tomorrow in the library conference room.
-        > Our group **`is going to`** meet tomorrow **`in`** the library conference room.
+     > Our group **`is going to`** meet tomorrow **`in`** the library conference room.
 
 120. The first assignment will be due on the 14th of September.
-        > The first assignment will **`be`** due on the **`14th of`** September.
+     > The first assignment will **`be`** due on the **`14th of`** September.
 
-121. There was no coorelation between drug use and cure rates.
-        > There was no ***`coorelation`*** bewteen drug use and cure rates.
+121. There was no correlation between drug use and cure rates.
+     > There was no ***`correlation`*** between drug use and cure rates.
 
 122. The university library has most of the necessary books.
 
 123. Your are required to complete your research paper by next Monday.
 
 124. Your thesis should have a fairly limited scope.
-        > Your ***`thesis`*** should have a fairly limited scope.
+     > Your ***`thesis`*** should have a fairly limited scope.
+
+125. The coffee house has special student discounts throughout the week.
+     > The coffee house has special student **`discounts`** ***`throughout`*** the week.
+
+126. All writers consciously or unconsciously represent their own cultures.
+     > All writers ***`consciously`*** or ***`unconsciously`*** represent their own **`cultures`**.
+
+127. The student identification card will be issued by today or tomorrow.
+     > The student identification **`card`** will be issued by today or tomorrow.
+
+128. The elective course introduces engineering students to construct, practices and concepts.
+     > The ***`elective`*** course **`introduces`** engineering students **`to`** construct, practices and concepts.
+
+129. Article numbers are collected through interesting experiments.
+     > ***`Article`*** numbers are collected through interesting experiments.
+
+130. Your agents will collect the commission for each house they sell.
+     > Your agents will collect **`the`** ***`commission`*** for each house they ***`sell`*** .
+
+131. Students were instructed to stand in a straight line outside the classroom.
+     > Students were instructed to **`stand in`** a straight line outside the **`classroom`**.
+
+132. Climate change is now an acceptable phenomenon among reputable scientists.
+     > Climate **`change is now`** an acceptable ***`phenomenon`*** among reputable scientists.
+
+133. Upgrading manufacturing system can increase efficiency.
+     > Upgrading **`manufacturing`** system can increase efficiency.
+
+134. Higher numbers of patients were infected than previous during outbreaks of illness.
+     > **`Higher numbers of`** patients **`were`** infected **`than previous`** during ***`outbreaks`*** of illness.
+
+135. Inflation affects the demand pricing and consumption of most products.
+     > ***`Inflation`*** affects the demand pricing and consumption of most products.
+
+136. Before submitting your dissertation, your advisor must approve your application.
+     > Before submitting your ***`dissertation`*** , your ***`advisor`*** must approve your application.
+
+137. A party is thrown in the small meeting room.
+     > A party **`is`** ***`thrown`*** **`in`** the small meeting room.
+
+138. Why has the project been held up for so long.
+     > Why has the project **`been`** ***`held up`*** for so long.
+
+139. A glimpse of something is an enormously rewarding experience.
+     > A **`glimpse`** of something is an ***`enormously`*** rewarding experience.
+
+140. If finance is a cause of concern, scholarship may be available.
+     > If finance is **`a`** cause of concern, scholarship may be available.
+
+141. They have struggled since last year to make their services paid.
+     > They have struggled since last year to make their **`services`** paid.
+
+142. Climate change is a fierce phenomenon concentrated by scientists.
+     > Climate change is ***`fierce`*** phenomenon concentrated by scientists.
+
+143. And in that regard as well as in other regards it stands as an important contribution.
+     > **`And in that regard as well as in`** other regards it **`stands`** as **`an`** important contribution.
+
+144. The commission of funds supported among authorities has raised an argument.
+     > The **`commission of`** funds supported among ***`authorities`*** has raised an argument.
+
+145. Public perception about biotechnology is crucial for developing scientific consensus.
+     > Public ***`perception`*** about **`biotechnology`** is crucial for **`developing`** ***`scientific`*** ***`consensus`*** .
+
+146. Identity theft happens to thousands of people every year.
+     > Identity ***`theft`*** **`happens to thousands of`** people every year.
+
+147. The commissioner will collect fines for the sovereignty.
+     > The commissioner will collect fines **`for`** the ***`sovereignty`*** .
+
+148. The findings of researchers are focusing on the causes of the diseases and treatments.
+     > The findings of **`researchers are`** focusing on the causes of **`the`** ***`diseases`*** and ***`treatments`*** .
+
+149. Medical researchers have focused on the causes of diseases and treatments.
+     > **`Medical`** researchers have focused on the causes of **`diseases`** and treatments.
+
+150. Software companies design and create new products.
+
+151. Please make sure you have collected all the necessary materials.
+     > Please make sure you have **`collected`** all the necessary materials.
+
+152. It is absolutely vital to allocate your resources.
+
+153. When met with high potential risks, companies will raise their prices.
+     > **`When met with`** high potential risks, companies will raise their prices.
+
+154. The module of the work is more of a compositional style.
+     > The module of the work is more **`of`** a ***`compositional`*** style.
+
+155. Behind the group, there is a flat cart drawn by the mules.
+     > Behind the group, there is a flat **`cart`** drawn **`by`** the **`mules`**.
+
+156. It is hard to anticipate all the different characters that were in react.
+     > It is hard to anticipate all the **`different`** characters that **`were`** in **`react`**
+
+157. Remember the gifts purchased by the children should have a striped character.
+     > Remember the gifts purchased by the children should have a ***`striped`*** character.
+
+158. Some people regarded it as carelessness, while others regarded it as recklessness.
+     > Some people **`regarded`** it as carelessness, while others **`regarded`** it as ***`recklessness`***
+
+159. Rising sales figures mean a rise in demand.
+     > Rising sales figures mean **`a rise`** in demand.
+
+160. Affordable housing is an important issue for all members of society.
+     > Affordable **`housing`** is **`an important`** issue for all members of society.
+
+161. Agenda items should be submitted by the end of the day.
+     > Agenda items should be submitted by the end of **`the day`**.
+
+162. An ancient text may hold secrets which were lost centuries ago.
+     > An ***`ancient`*** **`text`** my hold secrets **`which were`** lost ***`centuries`*** ago.
+
+163. Attracting skilled workers to the city with expensive housing is hard.
+     > **`Attracting`** **`skilled`** workers **`to`**  the city **`with`** expensive housing is hard.
+
+164. Before completing the exercise, you need to read the remaining chapters.
+     > Before completing the ***`exercise`*** , you need to read the remaining chapters.
+
+165. Books for children often contain many beautiful illustrations.
+     > Books for children **`often contain many`** beautiful **`illustrations`**.
+
+166. The report contains the most important information.
+
+167. Water taps on the campus will discourage the frequent use of plastic bottles.
+     > Water **`taps on`** the campus will discourage the frequent use of plastic bottles.
+
+168. It is a slash to debate about the value of knowledge.
+     > It is **`a`** slash to debate about the value of knowledge.
+
+169. The early works of this research are more experimental.
+     > The early **`works`** of this research are more experimental.
+
+170. A recent article shows a number of interesting experiments.
+
+171. You should include these two pictures from the lecture in your assignment.
+     > You should include **`these`** two pictures from the lecture **`in`** your assignment.
+
+172. Each group needs to submit the outlines of their projects to their tutors.
+     > Each group **`needs`** to submit the **`outlines`** of **`their projects`** to their tutors
+
+173. The early work is more philosophical rather than experimental.
+     > The early work is more ***`philosophical`*** rather than experimental.
+
+174. The author's previous works are more philosophical and less experimental.
+     > The author's **`previous`** works are more ***`philosophical`*** **`and less`** experimental.
+
+175. You can find a lot more information on the university website.
+
+176. The extent of advertising for children is open to much debate.
+     > The **`extent of`** advertising for children is open **`to`** much debate.
+
+177. Organizational failure is considered in various perspectives in academic literature.
+     > Organizational failure is considered in various **`perspectives`** in ***`academic`*** ***`literature`*** .
+
+178. The massive accumulation of data was converted into a communicable argument.
+     > The massive ***`accumulation`*** **`of`** data **`was`** converted into **`a communicable`** argument.
+
+179. Companies want to protect their brands from negative comments.
+     > Companies **`want`** to protect their **`brands`** from negative comments.
+
+180. We can have a lecture on the morning of Thursday.
+
+181. When launching a product, researching and marketing are very vital.
+
+182. Packaging is very important to attract the attention of a buyer.
+
+183. Listening is the key skill leading to success in this course.
+     > Listening is the key **`skill`** leading to success in this course.
+
+184. Peer group pressure has a significant effect on young people.
+     > Peer group pressure has a significant effect on young people.
+
+185. The lecture will cover the reason of climate change.
+        > The lecture will cover the **`reason of`** climate change.
+
+186. Students find true or false questions harder than short answers.
+        > Students find true or false questions **`harder`** than **`short answers`**.
+
+187. He was regarded as the foremost economist in that time.
+        > He was regarded as the ***`foremost`*** economist in that time.
+
+188. The curriculum needed to be adjusted for development.
+        > The ***`curriculum`*** needed to be adjusted for development.
+
+189. The properties should be appropriately distributed.
+        > The **`properties`** should be ***`appropriately`*** distributed.
+
+190. A very basic function of computing is counting and calculating.
+        > **`A`** very basic function of computing is counting and calculating.
+
+191. This course is very integrated because it has several parts.
+
+192. Rivers provide habitats and migration places for many aquatic species.
+        > Rivers provide **`habitats`** and migration **`places`** for **`many`** ***`aquatic`*** species.
+
+193. The summer school program allows students to summarize their studies.
+        > The **`summer`** school program allows students to ***`summarize`*** **`their`** studies.
+
+194. The faculty staff are very approachable, friendly and extremely helpful.
+        > The faculty staff are very ***`approachable`*** , friendly and extremely helpful.
+
+195. All industries consist of systems as input, processes outputs and feedback.
+     > All industries consist of **`systems`** as input, **`processes`** **`outputs`** and feedback.
+
+196. The university seeks funding for the renovation of the lecture theater.
+        > The university **`seeks`** funding **`for the renovation of`** the lecture theater.
+
+197. All answers must be examined and supported by relevant theory.
+
+198. Parent' talk to children tends to be simplified.
+        > **`Parents' talk`**  to children **`tends`** to be simplified.
+
+199. The garden behind the university is open to the public in the summer.
+
+200. All students need to attend no less than ten labs per semester.
+        > All students need to attend no less than **`ten labs`** per ***`semester`*** .
