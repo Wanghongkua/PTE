@@ -570,3 +570,5 @@
 
 200. All students need to attend no less than ten labs per semester.
         > All students need to attend no less than **`ten labs`** per ***`semester`*** .
+
+201. 
