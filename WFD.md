@@ -36,7 +36,7 @@
     > Review all sources before drawing any **`conclusions`**.
 
 14. Tribes worked with each other to build monolithic statues.
-    > ***`Tribes`*** **`worded`** with each other to build ***`monolithic`*** ***`statues`*** .
+    > ***`Tribes`*** **`worked`** with each other to build ***`monolithic`*** ***`statues`*** .
 
 15. There was not enough evidence to support these recommendations.
     > There **`was`** not enough evidence to support these recommendations.
@@ -571,4 +571,124 @@
 200. All students need to attend no less than ten labs per semester.
         > All students need to attend no less than **`ten labs`** per ***`semester`*** .
 
-201. 
+201. Human beings compete with other species for space and resources.
+        > Human beings ***`compete`*** with other species for space and resources.
+
+202. The library holds substantial materials of economic history.
+
+203. The consumer confidence has a direct effect on sales.
+
+204. It is a really comprehensive program that covers both theory and practice.
+
+205. Scientific benefit to space exploration is frequently questioned.
+        > Scientific benefit **`to`** space ***`exploration`*** is frequently questioned.
+
+206. Listening is the key skill to succeed in this course.
+
+207. The evaluation form will be reviewed by the university personnel.
+        > The evaluation form will be reviewed by the university ***`personnel`***.
+
+208. Government reforms have been proposed at all levels.
+        > Government ***`reforms`*** **`have`** been **`proposed`** at all levels.
+
+209. Many toxins originate from plants or animals.
+        > Many ***`toxins`*** **`originate from`** plants **`or`** animals.
+
+210. Below the heating controls in the middle is a small round plastic button.
+        > Below the heating **`controls in the middle`** is a small **`round plastic`** button.
+
+211. The whole point of this project was to look at the norms not the exception.
+        > The whole point of this **`project was`** to look **`at`** the ***`norms`*** not the ***`exception`***
+
+212. They have both grown up in the rural area and dislike the urban life.
+        > They have both grown up **`in`** the rural area and **`dislike`** the ***`urban`*** life.
+
+213. These have also been found to contribute to the death of many marine animals.
+        > **`These have also been found to`** contribute to the death of many marine animals.
+
+214. Freshwater creatures didn't appear in the painting until the modern period.
+        > ***`Freshwater`*** ***`creatures`*** didn't appear **`in the painting`** until the ***`modern`*** **`period`**.
+
+215. The meeting has some struggling overlap.
+        > The **`meeting has`** some struggling overlap.
+
+216. Doctoral writings have the structure in place as well as scientific papers.
+        > ***`Doctoral`*** **`writings have the`** structure **`in place`** as well as scientific papers.
+
+217. The excursion for children is very mush open to debate.
+        > The ***`excursion`*** for children **`is very`** much open to debate.
+
+218. The synopsis contains the most important information.
+        > The ***`synopsis`*** contains the most important information.
+
+219. The qualification will be assessed by using a conference criterion approach.
+        > The **`qualification`** will be assessed by using a conference criterion approach.
+
+220. Statistic results should be expressed in different ways depending on circumstances.
+        > Statistic results should be ***`expressed`*** in different ways depending on ***`circumstances`*** .
+
+221. Consumer confidence has a direct influence on sales.
+
+222. This class will look at the structure of the essay.
+
+223. The theme of the issue was the estimation of the problem.
+        > The theme of the issue **`was`** the **`estimation`** of the problem.
+
+224. When bad drove out good, the local workers were more difficult than their competitors.
+        > When bad ***`drove out`*** good, the local **`workers`** were more ***`difficult`*** than their ***`competitors`*** .
+
+225. Textile manufacture plays a large role in improving economies.
+        > ***`Textile`*** manufacture plays a large role in **`improving economies`**.
+
+226. The key difference between courses is the kind of assessment.
+
+227. Daily practice can build confidence and improve skills.
+
+228. While conceiving ideas is desirable, basic underlying issues must first be addressed.
+        > While ***`conceiving`*** **`ideas`** is desirable, basic ***`underlying`*** issues must **`first`** be addressed.
+
+229. The campus tour will help you get familiar with the teaching facilities.
+        > The campus tour will **`help you`** get ***`familiar`*** with the teaching facilities.
+
+230. That brief outline takes us to the beginning of the twentieth century.
+        > That brief outline takes us to the beginning of **`the twentieth`** century.
+
+231. No more than four people can be in the lab at once.
+        > No more than four people can be in **`the`** lab at once.
+
+232. Overcrowding and poor sanitation affected the lives of the majority of the population.
+        > ***`Overcrowding`*** and poor sanitation **`affected`** the **`lives`** of **`the`** majority **`of the`** population.
+
+233. A very basic feature of computing is counting and calculation.
+        > **`A`** very basic **`feature`** of computing is counting and **`calculation`**.
+
+234. Early streams of the economy in the Roman Republic will be examined.
+        > Early ***`streams`*** of the economy **`in the`** ***`Roman`*** Republic will be examined.
+
+235. The celebrated theory is still a subject of controversy.
+        > The celebrated theory is still a subject of controversy.
+
+236. Many birds migrated to the warmer areas for the winter.
+        > Many birds **`migrated`** to the warmer **`areas`** for the winter.
+
+237. While reconciliation is desirable, the basic underlying issues must be addressed.
+        > While ***`reconciliation`*** is desirable, the basic underlying issues must be addressed.
+
+238. You are trained to be a special journalist.
+
+239. Submitting your group assignment must be issued punctually by one of your group members.
+        > Submitting your group assignment must be **`issued`** ***`punctually`*** by one of your group members.
+
+240. Packaging is very important to attract intentioned buyers.
+        > Packaging is very important to attract ***`intentioned`*** buyers.
+
+241. Academic problems cause a big rise in unemployment.
+        > Academic **`problems cause`** a big rise **`in`** unemployment.
+
+242. Participants initially select from a range of foundation subjects.
+        > Participants initially **`select`** from a **`range of`** foundation **`subjects`**.
+
+243. The earth's atmosphere is mostly composed of oxygen and nitrogen.
+        > The **`earth's`** ***`atmosphere`*** is **`mostly`** composed of ***`oxygen`*** and ***`nitrogen`*** .
+
+244. 
