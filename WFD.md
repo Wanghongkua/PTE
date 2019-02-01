@@ -691,4 +691,65 @@
 243. The earth's atmosphere is mostly composed of oxygen and nitrogen.
         > The **`earth's`** ***`atmosphere`*** is **`mostly`** composed of ***`oxygen`*** and ***`nitrogen`*** .
 
-244. 
+244. If you seek for further extension, contact your faculty for more information.
+        > If you seek for **`further`** extension, contact your faculty for more information.
+
+245. Those seeking for a further extension, should contact their faculty for more information.
+        > Those **`seeking`** for **`a`** further extension, should contact their **`faculty`** for more information.
+
+246. Peer group pressure has a great effect on young people.
+        > Peer group pressure has **`a great`** effect on young people.
+
+247. Traveling by boat on the river is not possible in winter.
+
+248. The aerial photographs were promptly registered for thorough evaluation.
+        > The ***`aerial`*** **`photographs`** were ***`promptly`*** registered for ***`thorough`*** evaluation.
+
+249. You need to hand in the essay next semester.
+        > You need to hand ***`in the`*** essay next semester.
+
+250. The scientists will face both the explanations and problems.
+        > The scientists will face both the **`explanations`** and the problems.
+
+251. Members should make concentrated contributions to operating funds.
+        > Members should make ***`concentrated`*** **`contributions`** to ***`operating`*** funds.
+
+252. If you need additional help, please visit the university resources center.
+        > If you need additional help, please visit the university **`resources`** center.
+
+253. The theme of the instrumental work exhibits more of a compositional style.
+        > The theme of the **`instrumental work`** ***`exhibits`*** **`more of a`** ***`compositional`*** style.
+
+254. This guy is qualified to lead the groups into the mountain.
+        > **`This guy`** is qualified to lead the groups into the **`mountain`**.
+
+255. The library holds a substantial collection of materials on economic history.
+        > The library holds **`a`** substantial collection of materials on economic history.
+
+256. The most popular courses still have a few places left.
+        > The most popular **`courses still have a few places`** left.
+
+257. You were able to contact a number of research subjects.
+
+258. The teaching staff are extremely approachable, helpful and friendly.
+
+259. It is being made to reduce harmful emissions.
+        > It is being made **`to reduce`** harmful **`emissions`**.
+
+260. This is an integrated course with several elements.
+
+261. Students requiring for an extension should apply sooner rather than later.
+        > Students **`requiring`** for **`an`** extension should apply sooner rather than later.
+
+262. Theory and training are required to become a medical specialist.
+
+263. Read the first section before the next meeting.
+
+264. Some scientists argue that the entire financial system is fatally flawed.
+        > Some scientists argue that the entire financial system is fatally flawed.
+
+265. Convincing evidence for this theory is hard to obtain.
+        > ***`Convincing`*** evidence for this theory is hard to obtain.
+
+266. The director of the gallery was grateful for the anonymous donation.
+        > The director of the gallery **`was`** ***`grateful`*** for the ***`anonymous`*** donation.
