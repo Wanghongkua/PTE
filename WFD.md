@@ -753,3 +753,34 @@
 
 266. The director of the gallery was grateful for the anonymous donation.
         > The director of the gallery **`was`** ***`grateful`*** for the ***`anonymous`*** donation.
+
+267. The scientists found most of the studies today.
+
+268. Remember to sing the attendance register before leaving the lecture hall.
+
+269. She began by giving an outline of the previous lecture.
+        > She ***`began`*** by giving an outline of **`the`** previous lecture.
+
+270. The university seeks the funds for renovation of the theater.
+
+271. An archaeologist's new discovery stands out in previous overlooked foundations.
+        > An **`archaeologist's`** new discovery stands out in previous ***`overlooked`*** foundations.
+
+272. Important details from the article are missing in the summary.
+
+273. The untapped potentials of using the sun is enormous.
+        > The ***`untapped`*** **`potentials`** of using the sun is enormous.
+
+274. The dance department stages elaborated performances each semester.
+        > The **`dance department stages`** ***`elaborated`*** **`performances`** each semester.
+
+275. I will come back to this in a moment.
+        > **`I will`** come back to this in a moment.
+
+276. The article illustrates a number of interesting experiments.
+        > The article **`illustrates`** a number of interesting experiments.
+
+277. Many graduates of journalism get jobs in the communications field.
+        > Many **`graduates of`** ***`journalism`*** get jobs in the communications field.
+
+278. 
