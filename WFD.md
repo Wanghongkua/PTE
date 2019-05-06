@@ -85,4 +85,158 @@
 35. You come with me, and the others stay here.
     > You come with me, and **`the`** others stay here.
 
-36. 
+36. The scientists now study a wide variety of atmospheric processes.
+    > The scientists **`now study`** a wide variety of ***`atmospheric`*** processes.
+
+37. The new product failed due to a lack of demand.
+
+38. This paper challenges many previously accepted theories.
+
+39. A number of students have volunteer jobs.
+
+40. The essay is easy to write once the research is completed.
+
+41. It is hard to anticipate all their actions.
+
+42. Control systems in manufacturing provide a high level of accuracy.
+    > Control **`systems`** in **`manufacturing provide`** a high level of accuracy.
+
+43. University departments carefully monitor articles and other publications by faculty.
+    > University departments carefully **`monitor`** articles and other publications by faculty.
+
+44. The application process may take longer than expected.
+
+45. Please note that the college laboratory will be closed for cleaning next week.
+    > Please note **`that`** the college laboratory will be closed for cleaning next week.
+
+46. The economic books are at the back on the left.
+
+47. Neurons are principally involved in biological processes.
+    > ***`Neurons`*** are ***`principally`*** involved in biological processes.
+
+48. The coffee house menu featured coffee, sandwiches, and toast.
+    > The coffee house menu **`featured`** coffee, sandwiches, and ***`toast`*** .
+
+49. The key findings seemed to contradict our initial hypothesis.
+    > The key findings **`seemed`** to ***`contradict`*** our initial hypothesis.
+
+50. It is important to allocate your time wisely when revising.
+    > It is important to allocate your time wisely when ***`revising`*** .
+
+51. Writing an essay is easy once the research is finished.
+    > Writing an essay is easy once the research is **`finished`**.
+
+52. The university officer will help you locate the housing and transportation.
+    > The university officer will help you locate the housing and **`transportation`**.
+
+53. The dining hall will undergo renovation during the fall break.
+
+54. Some of the features are parts of the previous research.
+    > Some of the features are **`parts`** of the previous research.
+
+55. Experts believe that the industrial development will help the economy.
+    > Experts believe that the ***`industrial`*** development will help the development.
+
+56. Nurses specialize in clinical work and management.
+    > Nurses ***`specialize`*** in clinical work and management.
+
+57. They were struggling last year to make their service pay.
+    > They were struggling last year to make their service **`pay`**.
+
+58. Avoid confusing the cause and effect of these changes.
+    > Avoid **`confusing the cause and effect of`** these changes.
+
+59. Most critics agreed with the new theory, but few disagreed.
+
+60. Sales figures for last year were better than expected.
+
+61. The island is located at the north end of the bay.
+    > The island is located **`at`** the north end of the bay.
+
+62. The results of the experiment are reported in the table below.
+    > The **`results`** of the experiment **`are`** reported in the table below.
+
+63. Laws protect consumer rights and help avoid market problems.
+
+64. Our class is divided into two groups, you come with me, others stay here.
+    > Our class is divided into two groups, **`you`** come with me, **`others`** stay here.
+
+65. Undergraduate students may participate in specific stages within the program.
+
+66. When workers ask for higher wages, companies often raise their prices.
+
+67. The vocabulary that has peculiar meanings is called jargon.
+    > The vocabulary that has ***`peculiar`*** meanings is called ***`jargon`*** .
+
+68. Artists other than politicians played their own roles as critics of the culture.
+    > Artists other than ***`politicians`*** **`played`** their own roles **`as`** critics of the culture.
+
+69. The schedule allows plenty of time for individual study.
+
+70. Relative humidity is the amount of moisture that the air can hold.
+
+71. You can contact all your tutors by email.
+
+72. There is a need for constructive dialogue between leaders.
+
+73. I thought it was through the small meeting room.
+    > I thought it was through **`the`** small meeting room.
+
+74. The importance of this event was not yet fully understood.
+    > The importance of this event **`was`** not yet fully understood.
+
+75. Most theories are quite similar, but a few critics disagree.
+    > **`Most`** theories are quite similar, but **`a`** few critics disagree.
+
+76. Americans have progressively found the growth in quantitative terms.
+    > Americans have progressively found the growth in ***`quantitative `*** terms.
+
+77. The history of the movement was recorded by several writers.
+
+78. The toughest part of the research for postgraduate students is the funding.
+    > The toughest part of **`the`** research for postgraduate students is the funding.
+
+79. Assignments should be submitted to the department office before deadline
+    > Assignments should be ***`submitted`*** to **`the`** department office before deadline.
+
+80. Free campus tours run daily during summer for prospective students.
+    > Free campus tours run daily during summer for ***`prospective`*** students.
+
+81. Career opportunities in this field are quite limited.
+    > **`Career`** opportunities in this field are quite limited.
+
+82. This is interesting in parliament.
+    > **`This is`** interesting in ***`parliament`*** .
+
+83. Resources and materials are on hold at the library reference desk.
+    > Resources **`and materials`** are on hold **`at`** the library **`reference`** desk.
+
+84. We can't consider any increases in our prices at this stage.
+    > We can't consider any **`increases`** in our **`prices`** at this stage.
+
+85. Climate change is being acknowledged by many scientists.
+    > Climate change **`is being`** ***`acknowledged`*** by many scientists.
+
+86. A person's education level is closely related to his economic background.
+
+87. Everyone must evacuate the premises during the fire drill.
+    > Everyone must **`evacuate`** the ***`premises`*** during the fire drill.
+
+88. You are required to submit your assignment by Friday.
+    > You are **`required`** to submit your assignment by Friday.
+
+89. Lecture's outlines are available on the college internal website.
+    > **`Lecture's`** outlines are available **`on`** the college internal website.
+
+90. Our professor is hosting the business development conference.
+
+91. Materials and resources are on hold at the library's front desk.
+    > Materials and resources are on hold at the **`library's`** front desk.
+
+92. Animals raised in captivity behave differently than their wild counterparts.
+    > Animals raised in ***`captivity`*** behave differently than their wild counterparts.
+
+93. If it helps to take notes in order to concentrate, please do so.
+    > If it helps to take notes **`in order to`** ***`concentrate`***, please do so.
+
+94. 
