@@ -239,4 +239,28 @@
 93. If it helps to take notes in order to concentrate, please do so.
     > If it helps to take notes **`in order to`** ***`concentrate`***, please do so.
 
-94. 
+94. The schedule allows a lot of time for independent study.
+    > The schedule allows a lot of time for **`independent`** study
+
+95. He has landed a job in a prestigious law firm.
+    > He has landed a job in **`a`** ***`prestigious`*** law ***`firm`*** .
+
+96. Mutually exclusive events can be described as either complementary or opposite.
+    > ***`Mutually`*** **`exclusive`** events can be described as **`either`** complementary or opposite
+
+97. Conferences ought to be scheduled two weeks in advance.
+
+98. The curriculum is described in the course syllabus.
+    > The ***`curriculum`*** is described in the course ***`syllabus`***.
+
+99. We support the research on problems related to tropical cyclone dynamics and forecasting.
+    > We support the **`researches`** on problems **`related to`** tropical ***`cyclone`*** ***`dynamics`*** and forecasting.
+
+100. Relevant materials are reserved in the library.
+
+101. Today's lecture material will be included in the next assignment.
+
+102. Competition for places in this course is fierce.
+        > ***`Competition`*** for places **`in`** this course is fierce.
+
+103. 
