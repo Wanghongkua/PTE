@@ -49,7 +49,7 @@
 
 20. Your task is to create demand for the product.
 
-21. You summary should be as clear and concise as possible.
+21. Your summary should be as clear and concise as possible.
 
 22. Preparation is important to avoid mishaps in the lab.
     > ***`Preparation`*** is important to avoid mishaps in the lab.
@@ -344,5 +344,34 @@
 
 131. Climate change is now an acceptable phenomenon among reputable scientists.
      > Climate change is now an acceptable phenomenon **`among`** reputable scientists.
+
+132. Upgrading manufacturing system can increase efficiency.
+     > Upgrading manufacturing system can increase ***`efficiency`*** .
+
+133. Higher numbers of patients were infected than previous during outbreaks of illness.
+     > Higher **`numbers`** of patients were infected than previous **`during outbreaks`** of illness.
+
+134. Inflation affects the demand pricing and consumption of most products.
+     > ***`Inflation`*** affects the demand **`pricing`** and consumption of most products.
+
+135. Before submitting your dissertation, your advisor must approve your application.
+     > Before submitting your ***`dissertation`***, your advisor must approve your application.
+
+136. A party is thrown in the small meeting room.
+     > **`A`** party **`is thrown`** in the small meeting room
+
+137. Why has the project been held up for so long.
+     > Why has the project been **`held`** up for so long.
+
+138. The glimpse of dipping into this as a hobby is an enormously rewarding experience.
+     > The ***`glimpse`*** of **`dipping`** into this as a hobby is **`an`** ***`enormously`*** **`rewarding`** experience.
+
+139. If finance is a cause of concern, scholarships may be available.
+     > If finance is **`a cause`** of concern, **`scholarships`** may be available.
+
+140. They have struggled since last year to make their services paid.
+
+141. Climate change is a fierce phenomenon concentrated by scientists.
+     > Climate change is a ***`fierce`*** ***`phenomenon`*** concentrated by scientists.
 
 s
